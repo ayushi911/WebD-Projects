@@ -1,12 +1,5 @@
-# Demo
-
-i want to learn git because of many new reasons and i know i will!
-
-## subheading
-
-this is some more of writing!
-adding some more text to see if it works!!
-
-## local development
-
-1. try accessing index.html
+# WEB DEVELOPEMENT PROJECTS
+<hr>
+This repository holds some of my mini projects and hands on work that I completed when going along with the course on Web Developement by Steele Colt on Udemy.com
+<br> 
+-some projects may be just web pages and other will be more advanced.
